@@ -1,6 +1,6 @@
 ## Hello there 👋
-🏫 KLFzero is a student in statistics major
-🎮 Become a game developer is his goal.
+- 🏫 KLFzero is a student in statistics major
+- 🎮 Become a game developer is his goal.
 
 <!--
 **KLFzero/KLFzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
